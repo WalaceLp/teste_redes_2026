@@ -6,5 +6,5 @@ O objetivo é demonstrar a criação e execução de serviços de rede utilizand
 ## Tecnologias Utilizadas
 - Docker
 - Python
-- Linux
+- Linux (ambiente controlado Ubuntu)
 
